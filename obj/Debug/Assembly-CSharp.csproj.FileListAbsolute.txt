@@ -1,0 +1,2 @@
+D:\BlaBlaProject\FPS_VR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\BlaBlaProject\FPS_VR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
